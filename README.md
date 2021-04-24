@@ -8,7 +8,7 @@ This project was made for a youtube tutorial.<br /><br/>
 <img src="https://i.imgur.com/nxf5JAi.png" alt="Web Version"/>
 
 ### Mobile Version
-<img src="https://i.imgur.com/GfFl7Pt.png" alt="Mobile Version"/>
+<img src="https://i.imgur.com/GfFl7Pt.png" alt="Mobile Version" width="300"/>
 
 ## 🚀 Starting
 
